@@ -24,7 +24,8 @@
     <description>Cordova FCM Plugin</description>
     <license>Apache 2.0</license>
     <keywords>cordova, fcm, push, plugin</keywords>
-    
+    <preference name="APP_ID" />
+    <preference name="API_KEY" />
     <info>
 		Cordova FCM plugin v2.1.2 installed
 		For more details visit https://github.com/fechanique/cordova-plugin-fcm
